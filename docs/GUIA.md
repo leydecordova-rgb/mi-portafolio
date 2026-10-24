@@ -52,6 +52,29 @@ En esta sección se muestra un fragemento de la página correspondiente a la eti
 [Click para ver el avance](https://github.com/leydecordova-rgb/Lab1.git)
 
 
+  Un bloque de código con el lenguaje declarado y, dentro del texto, al menos un comando en código en línea.
 
+
+## DETALLE DE NEGOCIO 
+
+| Menu | Detalle |
+| :--: | :--   |
+| Inicio | Mostrar servicios destacados, objetivos e historia de la compañia.
+| Servicios | Mostar detalle de los servicios, simuladores y solicitud de servicio.
+|Contacto| Mostrar correo de soporte y número telefónico de atención al cliente.
+
+### Lista de servicios financieros
+
+1. Cuentas bancarias (corrientes y de ahorro)
+
+2. Depósitos a plazo fijo
+
+3. Transferencias y giros bancarios
+
+4. Tarjetas de débito
+
+5. Tarjetas de crédito
+
+6. Préstamos personales y de consumo 
 
 
